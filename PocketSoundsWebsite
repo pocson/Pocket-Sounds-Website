@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pocket Sounds</title>
+  <style>
+    body {
+      background-color: hsla(220, 100%, 10%, 0.3);
+    }
+    h1 {
+      text-shadow: 2px 0 0 hsla(160, 40%, 30%, .4);
+      box-sizing: content-box;
+      width: 250px;
+      height: 5px;
+      border-radius: 20;
+      border-top: 5px solid;
+      border-left: 5px solid;
+      border-bottom: 7px solid;
+      border-right: 7px solid;
+      border-color: hsla(230, 50%, 50%, 0.5);
+      padding-top: 25px;
+      padding-bottom: 60px;
+      margin-left: 25px;
+      margin-right: 25px;
+      text-align: center;
+      color: hsla(230, 60%, 35%, 0.9);
+      background-color: hsla(40, 100%, 50%, 0.7);
+
+    }
+  </style>
+</head>
+<body>
+  <h1 id="title">Pocket Sounds</h1>
+  <h3 id="mission-statememt">Our Mission Statement</h3>
+    <p1 id="mission-statement">Pocket Sounds' mission is to create music that interests us. We would much prefer to make music that interests you, but we would probably be wrong, as we are exceptionally bad guessers. But we enjoy making music that interests us, and we estimate that the odds are better than 50/50 that you will enjoy it too, as long as we execute relatively well. "Well, that sounds like a good plan, Pocket Sounds," you might say, "but what do you sound like?" That is an exellent and important question. Especially if you don't have time to </p1>
+    <a href=https://open.spotify.com/artist/6s00tlShQ7zCQTrfrEtudd?si=Y-c2KGXrRrexvo59vtX4Jw>click here and listen.</a>
+    <p1 id="mission-statement">We love a lot of genres and artists, and we hope to make music that could be compared to our favorites. Some of those include Scandinavian Jazz, 60s Psych, Burt Bacharach, Willie Nelson, Steely Dan, Sufjan Stevens and Blake Mills. We are also inspired by neat concepts like minimalism, set theory, the efficient market hypothesis and it's limitations, as well as fun tools like synthesizers and guitar pedals.
+  <h3 id="bio">Who's sounds are Pocket Sounds?</h3>
+    <p1 id="bio">Pocket Sounds was once a name on Mike St.Clair's long list of mostly bad band names. It is now the real name (</p1>
+      <input type="radio" id="good" name="name_vote" value="good"><label for="name_vote">Good</label><input type="radio" id="bad" name="name_vote" value="bad"><label for="bad">Bad</label>
+    <p1 id="bio">) on a very short list of bands he's lead. The name was inspired by a desire to highlight small sounds that are normally in the background of arrangements. Spending much of his time as a utility sideman, playing trombone, trumpet, synth, percussion, violin, bass, 3rd guitar, etc..., Mike considers himself a connoisseur of the kind of ear candy rarely noticed by those not wearing hi-fi headphones. Some bands in which you may have seen and, on a lucky day, heard St.Clair include White Denim, The Polyphonic Spree, Okkervil River, Star Parks and Hardproof.  St.Clair is joined by a sometimes rotating cast of some of Austin, TX's finest musicians such as Jeff Olson, Jon Lundbom, Wiley Greene and Ethan Kennedy.
+</body>
